@@ -1,0 +1,5 @@
+tmdbsimple
+tensorflow==1.9.0
+pyspark==2.3.2
+
+# use pip install -r requirement.txt
